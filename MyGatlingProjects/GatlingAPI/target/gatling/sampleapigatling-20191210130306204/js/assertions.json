@@ -1,0 +1,10 @@
+{
+  "simulation": "SampleAPIGatling",
+  "simulationId": "sampleapigatling",
+  "start": 1575982986204,
+  "description": "",
+  "scenarios": ["Get All users"],
+  "assertions": [
+
+  ]
+}
